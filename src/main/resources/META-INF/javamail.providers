@@ -1,0 +1,2 @@
+protocol=sysout; type=transport; class=br.com.otavio.mockmail.SysoutTransport; vendor=N/A
+protocol=file; type=transport; class=br.com.otavio.mockmail.FileTransport; vendor=N/A
