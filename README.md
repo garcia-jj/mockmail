@@ -14,7 +14,7 @@ If you are using Maven as dependency manager you only need to add this line in y
 </dependency>
 ```
 
-Or you can also download the artifact [here!](http://repo1.maven.org/maven2/br/com/otavio/mockmail/0.0.1/mockmail-0.0.1.jar).
+Or you can also download the artifact [here](http://repo1.maven.org/maven2/br/com/otavio/mockmail/0.0.1/mockmail-0.0.1.jar).
 
 ## How to use
 
